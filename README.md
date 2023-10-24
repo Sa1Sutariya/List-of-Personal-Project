@@ -1,8 +1,8 @@
 # List of personal Project
 
 - [AutoTeleAffiliate](#AutoTeleAffiliate)
-- [CP210x Serial Communication](#CP210x Serial Communication)
-- [YouTube Audio Downloader](#YouTube Audio Downloader)
+- [CP210x Serial Communication](#CP210x-Serial-Communication)
+- [YouTube Audio Downloader](#YouTube-Audio-Downloader)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
