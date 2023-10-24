@@ -1,4 +1,11 @@
-# List-of-personal-Project
+# List of personal Project
+
+- [AutoTeleAffiliate](#AutoTeleAffiliate)
+- [CP210x Serial Communication](#CP210x Serial Communication)
+- [YouTube Audio Downloader](#YouTube Audio Downloader)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## AutoTeleAffiliate
 AutoTeleAffiliate is a project aimed at creating a fully automated affiliate marketing Telegram channel with built-in bot functionality for the admin panel. This repository is intended to help affiliate marketers automate their promotional efforts on Telegram without any monetary commitments.
@@ -9,3 +16,7 @@ Affiliate marketing is a powerful way to generate income through promoting produ
 
 A Python script for communicating with CP210x USB-to-Serial adapters and displaying received data.
 This Python script is designed for communication with CP210x USB-to-Serial adapters. It allows you to send commands to the connected device and display the received data in both raw and hexadecimal formats. This is useful for debugging and monitoring CP210x devices.
+
+## YouTube Audio Downloader
+
+This Python script is designed to interact with Google Sheets and download audio from YouTube links provided in the sheet. It downloads the audio, converts it to MP3, and plays the audio. The script is intended to be used in a Google Colab environment.
