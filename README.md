@@ -1,11 +1,10 @@
 # List of personal Project
-
+---
 - [AutoTeleAffiliate](#AutoTeleAffiliate)
 - [CP210x Serial Communication](#CP210x-Serial-Communication)
 - [YouTube Audio Downloader](#YouTube-Audio-Downloader)
 - [Trading Data Storage](#Trading-Data-Storage-and-Stock-Market-Web-Scraping)
 - [Web Scraping: Linkedin Job Profiles](#Web-Scraping:-Linkedin-Job-Profiles)
-- [License](#license)
 
 ## AutoTeleAffiliate
 AutoTeleAffiliate is a project aimed at creating a fully automated affiliate marketing Telegram channel with built-in bot functionality for the admin panel. This repository is intended to help affiliate marketers automate their promotional efforts on Telegram without any monetary commitments.
@@ -26,12 +25,9 @@ This Python script is designed to interact with Google Sheets and download audio
 This project provides a solution for storing and retrieving historical stock market data, as well as a web scraping tool for gathering the data in the first place.
 
 ## Web Scraping: Linkedin Job Profiles
----
 
 Automatically scrape the web data of job profiles on Linkedin based on a specific search query
 
-### Problem: 
 It takes 10s on average to skim through Linkedin job profiles and copy that information into an excel sheet. To collect a large enough amount of data for analysis purposes, it will take time if done manually. 
 
-### Approach to the problem:
 To efficiently collect and cluster Linkedin job profiles data, this scrip helps automatically scrape the web data of job profiles on Linkedin based on a specific search query and store the output in a CSV file
