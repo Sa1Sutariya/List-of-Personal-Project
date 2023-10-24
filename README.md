@@ -4,7 +4,7 @@
 - [CP210x Serial Communication](#CP210x-Serial-Communication)
 - [YouTube Audio Downloader](#YouTube-Audio-Downloader)
 - [Trading Data Storage](#Trading-Data-Storage-and-Stock-Market-Web-Scraping)
-- [Contributing](#contributing)
+- [Web Scraping: Linkedin Job Profiles](#Web-Scraping:-Linkedin-Job-Profiles)
 - [License](#license)
 
 ## AutoTeleAffiliate
