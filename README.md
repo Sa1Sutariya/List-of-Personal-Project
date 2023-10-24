@@ -4,7 +4,7 @@
 - [CP210x Serial Communication](#CP210x-Serial-Communication)
 - [YouTube Audio Downloader](#YouTube-Audio-Downloader)
 - [Trading Data Storage](#Trading-Data-Storage-and-Stock-Market-Web-Scraping)
-- [Web Scraping: Linkedin Job Profiles](#Web-Scraping:-Linkedin-Job-Profiles)
+- [Web Scraping: Linkedin Job Profiles](#Web-Scraping-Linkedin-Job-Profiles)
 
 ## AutoTeleAffiliate
 AutoTeleAffiliate is a project aimed at creating a fully automated affiliate marketing Telegram channel with built-in bot functionality for the admin panel. This repository is intended to help affiliate marketers automate their promotional efforts on Telegram without any monetary commitments.
