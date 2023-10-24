@@ -3,7 +3,7 @@
 - [AutoTeleAffiliate](#AutoTeleAffiliate)
 - [CP210x Serial Communication](#CP210x-Serial-Communication)
 - [YouTube Audio Downloader](#YouTube-Audio-Downloader)
-- [Usage](#usage)
+- [Trading Data Storage](#Trading-Data-Storage-and-Stock-Market-Web-Scraping)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -20,3 +20,18 @@ This Python script is designed for communication with CP210x USB-to-Serial adapt
 ## YouTube Audio Downloader
 
 This Python script is designed to interact with Google Sheets and download audio from YouTube links provided in the sheet. It downloads the audio, converts it to MP3, and plays the audio. The script is intended to be used in a Google Colab environment.
+
+## Trading Data Storage and Stock Market Web Scraping
+
+This project provides a solution for storing and retrieving historical stock market data, as well as a web scraping tool for gathering the data in the first place.
+
+## Web Scraping: Linkedin Job Profiles
+---
+
+Automatically scrape the web data of job profiles on Linkedin based on a specific search query
+
+### Problem: 
+It takes 10s on average to skim through Linkedin job profiles and copy that information into an excel sheet. To collect a large enough amount of data for analysis purposes, it will take time if done manually. 
+
+### Approach to the problem:
+To efficiently collect and cluster Linkedin job profiles data, this scrip helps automatically scrape the web data of job profiles on Linkedin based on a specific search query and store the output in a CSV file
