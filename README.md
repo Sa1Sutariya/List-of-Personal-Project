@@ -5,6 +5,7 @@
 - [YouTube Audio Downloader](#YouTube-Audio-Downloader)
 - [Trading Data Storage](#Trading-Data-Storage-and-Stock-Market-Web-Scraping)
 - [Web Scraping: Linkedin Job Profiles](#Web-Scraping-Linkedin-Job-Profiles)
+- [SMPS Testing Kit](#SMPS-Testing-Kit)
 
 ## AutoTeleAffiliate
 AutoTeleAffiliate is a project aimed at creating a fully automated affiliate marketing Telegram channel with built-in bot functionality for the admin panel. This repository is intended to help affiliate marketers automate their promotional efforts on Telegram without any monetary commitments.
@@ -31,3 +32,7 @@ Automatically scrape the web data of job profiles on Linkedin based on a specifi
 It takes 10s on average to skim through Linkedin job profiles and copy that information into an excel sheet. To collect a large enough amount of data for analysis purposes, it will take time if done manually. 
 
 To efficiently collect and cluster Linkedin job profiles data, this scrip helps automatically scrape the web data of job profiles on Linkedin based on a specific search query and store the output in a CSV file
+
+## SMPS Testing Kit
+
+This repository contains the source code for a microcontroller-based project that involves reading and analyzing electrical data. The project is designed for ESP32 microcontroller boards and features a touchscreen user interface for controlling and monitoring electrical parameters, such as voltage and current. The system can work with both new and existing batch data, making it suitable for quality control and data collection purposes.
